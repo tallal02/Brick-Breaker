@@ -18,6 +18,8 @@ Create a classic brick breaker game with the following features:
 
 Instructions:
 You need dosbox to run this.
+
 - Commands:
     ml game.asm
+  
     game
